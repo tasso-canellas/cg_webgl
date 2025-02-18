@@ -6,4 +6,4 @@ As texturas foram baixadas em:
 https://polyhaven.com/
 https://ambientcg.com/
 
-O jogo é um jogo da velha 4x4x4. Podendo o jogador ganhar pela diagonal das faces e também pelas diagonais e linhas internas.
+O jogo é um jogo da velha 4x4x4. Podendo o jogador ganhar pela diagonal, linhas e colunas das faces e também pelas diagonais, linhas e colunas internas.
